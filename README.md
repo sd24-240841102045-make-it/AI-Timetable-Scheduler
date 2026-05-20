@@ -4,7 +4,7 @@ EduChronos is a full-stack, AI-powered academic timetable scheduling system desi
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
