@@ -1,0 +1,16 @@
+Name,Code,PeriodsPerWeek,Consecutive,IsLab,IsDouble,IsBatchSpecific,Dept
+IT Mathematics,IT_MATH,4,1,FALSE,FALSE,FALSE,IT
+Programming in C,IT_PROG,4,1,FALSE,FALSE,FALSE,IT
+Database Management,IT_DB,4,1,FALSE,FALSE,FALSE,IT
+Computer Networks,IT_NW,4,1,FALSE,FALSE,FALSE,IT
+Operating Systems,IT_OS,4,1,FALSE,FALSE,FALSE,IT
+Cyber Security,IT_SEC,4,1,FALSE,FALSE,FALSE,IT
+Soft Skills,IT_SS,2,1,FALSE,FALSE,FALSE,IT
+Programming Lab,IT_PROG_L,2,2,TRUE,TRUE,TRUE,IT
+Database Lab,IT_DB_L,2,2,TRUE,TRUE,TRUE,IT
+Vocational Sub 1,VOC_S1,4,1,FALSE,FALSE,FALSE,IT
+Vocational Sub 2,VOC_S2,4,1,FALSE,FALSE,FALSE,IT
+Vocational Sub 3,VOC_S3,4,1,FALSE,FALSE,FALSE,IT
+Vocational Sub 4,VOC_S4,4,1,FALSE,FALSE,FALSE,IT
+Vocational Lab 1 (B1),VOC_L1,2,2,TRUE,TRUE,TRUE,IT
+Vocational Lab 2 (B2),VOC_L2,2,2,TRUE,TRUE,TRUE,IT

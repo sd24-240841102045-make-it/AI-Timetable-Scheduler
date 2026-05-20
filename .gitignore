@@ -1,0 +1,27 @@
+# Environment Variables
+.env
+.env.*
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Private Datasets
+# Exclude CSV files that might contain sensitive institutional data
+*_big.csv
+classes_big.csv
+rooms_big.csv
+subjects_big.csv
+teachers_big.csv
+teachers_big-Copy.csv
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

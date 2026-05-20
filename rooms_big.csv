@@ -1,0 +1,16 @@
+Name,Code,Dept,Capacity,IsLab
+IT Classroom 1,IT_C01,IT,60,FALSE
+IT Classroom 2,IT_C02,IT,60,FALSE
+IT Classroom 3,IT_C03,IT,60,FALSE
+IT Classroom 4,IT_C04,IT,60,FALSE
+IT Classroom 5,IT_C05,IT,60,FALSE
+IT Classroom 6,IT_C06,IT,60,FALSE
+IT Classroom 7,IT_C07,IT,60,FALSE
+VOC Classroom 1,VOC_C01,IT,20,FALSE
+VOC Classroom 2,VOC_C02,IT,20,FALSE
+VOC Classroom 3,VOC_C03,IT,20,FALSE
+IT Programming Lab,IT_L01,IT,30,TRUE
+IT Database Lab,IT_L02,IT,30,TRUE
+VOC Skills Lab 1,VOC_L01,IT,20,TRUE
+VOC Skills Lab 2,VOC_L02,IT,20,TRUE
+VOC Skills Lab 3,VOC_L03,IT,20,TRUE

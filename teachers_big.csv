@@ -1,0 +1,22 @@
+Name,Code,Dept,Subjects,MaxPeriodsPerDay,MaxConsecutive
+Prof. Alicia,T_ALICIA,IT,IT_MATH,6,3
+Prof. Robert,T_ROBERT,IT,"IT_PROG,IT_PROG_L",6,4
+Prof. Cecilia,T_CECILIA,IT,"IT_DB,IT_DB_L",6,4
+Prof. Daniel,T_DANIEL,IT,IT_NW,6,3
+Prof. Evelyn,T_EVELYN,IT,IT_OS,6,3
+Prof. Franklin,T_FRANKLIN,IT,IT_SEC,6,3
+Prof. George,T_GEORGE,IT,IT_MATH,6,3
+Prof. Helen,T_HELEN,IT,"IT_NW,IT_SS",6,3
+Prof. James,T_JAMES,IT,"IT_PROG,IT_PROG_L",6,4
+Prof. Irene,T_IRENE,IT,"IT_DB,IT_DB_L",6,4
+Prof. Kevin,T_KEVIN,IT,IT_OS,6,3
+Prof. Laura,T_LAURA,IT,IT_SEC,6,3
+Prof. Mark,T_MARK,IT,IT_MATH,6,3
+Prof. Nancy,T_NANCY,IT,"IT_PROG,IT_PROG_L",6,4
+Prof. Oliver,T_OLIVER,IT,IT_NW,6,3
+Voc T1-Vikas,T_VIKAS,IT,"VOC_S1,VOC_L1",6,4
+Voc T2-Vidya,T_VIDYA,IT,"VOC_S2,VOC_L2",6,4
+Voc T3-Vinay,T_VINAY,IT,VOC_S3,6,3
+Voc T4-Vandana,T_VANDANA,IT,VOC_S4,6,3
+Voc T5-Vimal,T_VIMAL,IT,"VOC_S1,VOC_L1",6,4
+Voc T6-Veena,T_VEENA,IT,"VOC_S2,VOC_L2",6,4

@@ -1,0 +1,5 @@
+Name,Code,Dept,Capacity,IsLab
+Room 101,R101,IT,40,FALSE
+Room 102,R102,IT,40,FALSE
+Computer Lab A,L201,IT,40,TRUE
+Computer Lab B,L202,IT,40,TRUE
